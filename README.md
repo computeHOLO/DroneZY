@@ -18,4 +18,4 @@ Download zip from latest release and unzip
 
 open terminal in the DroneZY folder and type pip install -r requirements.txt
 
-once done, double click on dronezy.py or open terminal in the folder and type python (or py or python3 or py3) .\dronezy.py
+once done, double click on dronezy.py or open terminal in the folder and type python .\dronezy.py
