@@ -11,4 +11,11 @@ Whether you're commanding a lone Tello in your garage or dreaming up swarm chore
 
 🔊 Integrate surreal sound effects that react to altitude, battery, and mood
 
-Packaged with py2app, DroneZY lets you distribute your drone chaos as a self-contained .app. No Xcode. No App Store. Just Python-powered weirdness on macOS.
+------------------------------------------------------------------------------------------------------------
+# How To Setup
+
+Download zip from latest release and unzip
+
+open terminal in the DroneZY folder and type pip install -r requirements.txt
+
+once done, double click on dronezy.py or open terminal in the folder and type python (or py or python3 or py3) .\dronezy.py
