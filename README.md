@@ -7,10 +7,6 @@ Whether you're commanding a lone Tello in your garage or dreaming up swarm chore
 
 🎥 Stream video directly to your Mac
 
-🧠 Build absurd flight patterns like "crop circle spiral" or "hover tantrum"
-
-🔊 Integrate surreal sound effects that react to altitude, battery, and mood
-
 ------------------------------------------------------------------------------------------------------------
 # How To Setup
 
